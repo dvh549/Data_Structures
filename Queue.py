@@ -3,7 +3,7 @@ class Queue:
         self.list = [] 
     
     def get_length(self):
-        return self.len(list)
+        print(len(self.list))
     
     def enqueue(self, elem):
         self.list.append(elem)
