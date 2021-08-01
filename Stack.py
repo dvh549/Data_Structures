@@ -3,7 +3,7 @@ class Stack:
         self.list = [] 
     
     def get_length(self):
-        return self.len(list)
+        print(len(self.list))
         
     def push(self, elem):
         self.list.insert(0, elem)
