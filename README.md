@@ -1,4 +1,5 @@
 Data Structures:
 =============
 **Stack.py** - My implementation of a Stack. <br>
-**Queue.py** - My implementation of a Queue.
+**Queue.py** - My implementation of a Queue. <br>
+**LinkedList.py** - My implementation of a Linked List.
